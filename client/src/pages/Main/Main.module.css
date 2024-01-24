@@ -1,0 +1,26 @@
+.mainBg img {
+  width: 100%;
+}
+
+.section01 {
+  max-width: 1400px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  background-image: url("../../assets/img/section01.png");
+  background-size: cover;
+}
+
+.sectionText01 {
+}
+
+.sectionText01 h2 {
+  color: #5a5a5a;
+}
+.sectionText01 div {
+  color: #656565;
+  font-size: 20px;
+}
+.sectionText01 span {
+  color: #ff7124;
+}
