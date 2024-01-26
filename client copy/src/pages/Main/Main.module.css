@@ -1,0 +1,332 @@
+.container {
+  width: 100%;
+  height: 100%;
+}
+.mainBg img {
+  width: 100%;
+}
+.section {
+  max-width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  position: relative;
+}
+.section img {
+  width: 100%;
+}
+.sectionText01,
+.sectionText02 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-92%, -80%);
+}
+/* .sectionText01,
+.sectionText02 {
+  position: absolute;
+  top: 190px;
+  left: 120px;
+} */
+.sectionText01 h2 {
+  color: #5a5a5a;
+  font-size: 18px;
+}
+.sectionText01 div {
+  color: #656565;
+  font-size: 16px;
+}
+.sectionText01 span {
+  color: #ff7124;
+}
+
+.sectionText02 h2 {
+  color: #5a5a5a;
+  text-align: center;
+  font-size: 18px;
+}
+.sectionText02 div {
+  color: #656565;
+  font-size: 16px;
+}
+.sectionText02 span {
+  color: #ffb104;
+}
+
+.sectionText03 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(15%, 70%);
+}
+.sectionText03 h2 {
+  color: #010101;
+  text-align: center;
+  font-size: 32px;
+  margin: 0;
+}
+.sectionText03 .span {
+  color: #ffb104;
+  font-weight: 700;
+}
+.sectionText03 div {
+  color: #656565;
+  font-size: 16px;
+}
+.sectionText03 span {
+  color: #ff7124;
+}
+
+.sectionText04 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-10%, -55%);
+}
+.sectionText04 h2 {
+  margin: 0;
+  font-size: 18px;
+}
+.sectionText04 div {
+  color: #656565;
+  font-size: 16px;
+}
+.sectionText04 span {
+  color: #ff7124;
+}
+
+.sectionText05 {
+  position: absolute;
+  top: 510px;
+  right: 80px;
+}
+
+.sectionText05 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-30%, -440%);
+}
+.sectionText05 h2 {
+  font-size: 38px;
+  font-weight: 700;
+  margin: 0;
+}
+.sectionText05 span {
+  color: #ffb104;
+}
+
+.trippa {
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-176%, 355%);
+}
+
+.trippa div {
+  color: #010101;
+  font-size: 16px;
+}
+.trippa span {
+  color: #dc4f2d;
+  font-size: 19px;
+}
+
+.Ratatouille {
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-30%, 355%);
+}
+
+.Ratatouille div {
+  color: #010101;
+  font-size: 16px;
+}
+.Ratatouille span {
+  color: #578c36;
+  font-size: 19px;
+}
+.Bouillabaisse {
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(112%, 355%);
+}
+.Bouillabaisse div {
+  color: #010101;
+  font-size: 16px;
+}
+.Bouillabaisse span {
+  color: #6b279a;
+  font-size: 19px;
+}
+
+.sectionText06 {
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(150%, -140%);
+}
+
+.sectionText06 h2 {
+  color: #010101;
+  text-align: center;
+  font-size: 32px;
+  margin: 0;
+}
+.sectionText06 span {
+  color: #ffb104;
+}
+.sectionText06 div {
+  color: #010101;
+  text-align: center;
+  font-size: 16px;
+}
+
+.sectionSubText06 {
+  position: absolute;
+  width: 370px;
+  top: 50%;
+  left: 50%;
+  transform: translate(20%, -10%);
+}
+
+.sectionSubText06 p {
+  color: #656565;
+  font-size: 16px;
+}
+
+.sectionText07 {
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-131%, 10%);
+}
+
+.sectionText07 h2 {
+  color: #010101;
+  font-size: 42px;
+  font-weight: 700;
+  margin: 0;
+}
+.sectionText07 span {
+  color: #ffb104;
+}
+.sectionText07 div {
+  color: #656565;
+  text-align: center;
+  font-size: 16px;
+}
+
+.sectionText08 {
+  position: absolute;
+  text-align: left;
+  top: 50%;
+  left: 50%;
+  transform: translate(30%, -90%);
+}
+.sectionText08 span {
+  color: #ffb104;
+}
+.sectionText08 div {
+  color: #656565;
+  font-size: 16px;
+}
+
+.sectionText09 {
+  position: absolute;
+  text-align: right;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-53%, 130%);
+}
+.sectionText09 div {
+  color: #010101;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.sectionText10 {
+  position: absolute;
+  text-align: right;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-53%, 130%);
+}
+.sectionText10 div {
+  color: #010101;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.sectionText11 {
+  position: absolute;
+  text-align: right;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-53%, 220%);
+}
+.sectionText11 div {
+  color: #010101;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 1300px) {
+  .sectionText01 h2 {
+    font-size: 20px;
+  }
+  .trippa div {
+    font-size: 18px;
+  }
+  .trippa span {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .sectionText01 h2 {
+    font-size: 18px;
+  }
+  .sectionText01 div {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .sectionText01 h2 {
+    font-size: 16px;
+  }
+  .sectionText01 div {
+    font-size: 12px;
+  }
+  .sectionText02 h2 {
+    font-size: 16px;
+  }
+  .sectionText02 div {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .sectionText01 h2 {
+    font-size: 14px;
+  }
+  .sectionText01 div {
+    font-size: 10px;
+  }
+  .sectionText02 h2 {
+    font-size: 14px;
+  }
+  .sectionText02 div {
+    font-size: 10px;
+  }
+}

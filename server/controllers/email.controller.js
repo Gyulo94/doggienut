@@ -45,11 +45,11 @@ exports.postEmail = async (req, res) => {
                         box-sizing: border-box;
                     '>
                     <h3 style='font-size : 26px; font-weight : 400; margin-bottom : 30px;'>Doggienuts 문의 내역</h3> 
-                    <p style='font-size : 18px; margin-bottom : 30px;'>Email By <span style='font-weight : 600; margin-right: 10px;'>${email}</span></p>      
-                    <p style='font-size : 18px;'>Name : <span style='font-weight : 600; margin-right: 10px;'>${name}</span></p>
-                    <p style='font-size : 18px;'>Company : <span style='font-weight : 600; margin-right: 10px;'>${company}</span></p> 
-                    <p style='font-size : 18px;'>Country : <span style='font-weight : 600; margin-right: 10px;'>${country}</span></p> 
-                    <p style='font-size : 18px;'>Products : <span style='font-weight : 600; margin-right: 10px;'>${products}</span></p>
+                    <p style='font-size : 18px; margin-bottom : 30px;'>이메일 By <span style='font-weight : 600; margin-right: 10px;'>${email}</span></p>      
+                    <p style='font-size : 18px;'>이름 : <span style='font-weight : 600; margin-right: 10px;'>${name}</span></p>
+                    <p style='font-size : 18px;'>회사 : <span style='font-weight : 600; margin-right: 10px;'>${company}</span></p> 
+                    <p style='font-size : 18px;'>국가 : <span style='font-weight : 600; margin-right: 10px;'>${country}</span></p> 
+                    <p style='font-size : 18px;'>문의내용 : <span style='font-weight : 600; margin-right: 10px;'>${products}</span></p>
                 </div>
             </div>`,
     })
